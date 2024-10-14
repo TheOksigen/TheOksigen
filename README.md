@@ -1,11 +1,3 @@
-<img
-              src="https://w.forfun.com/fetch/4b/4b4796498e3493298dacc24f95b87e45.jpeg"
-              alt="html5"
-              width="100%"
-              height="100%"
-            />
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/httpsoksigen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.oksigen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmammedov) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theoksigen) 
 
